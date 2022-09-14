@@ -20,3 +20,7 @@ Continued implementation of the vacuum cleaning robot, adding ICP (Iterative Clo
 #### project_6
 Creates a fully functional simulated drone environment using all previously mentioned concepts in a 3 dimensional space.
 
+## Student Honor Code and Credits
+All uses and viewing of this repository should adhere to the Georgia Institute of Technology Honor Code, in all applicable settings. Any violations of said honor code are not supported by the owner of this repository, and are expressly discouraged.
+
+A substantial portion of this code was created by the professors and TAs of CS3630, and all due credit is given to them for their portions of the code.
